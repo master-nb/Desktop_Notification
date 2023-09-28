@@ -1,0 +1,3 @@
+from win10toast import ToastNotifier
+
+ToastNotifier().show_toast("Tutorial time","Hello NB sir, It's time for python practice.Let's learn something new. ",duration=4)
